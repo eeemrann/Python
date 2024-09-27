@@ -1,5 +1,6 @@
 import time
 
+
 t= time.strftime('%H:%M:%S')
 print(t)
 t1= time.strftime('%H')
@@ -21,3 +22,7 @@ elif(18<int(t1)<=21):
 else:
     print("Good Night.")
     
+x=time.strftime('%a--%A--%b--%B--%c--%d')
+print(x)    
+x1=time.strftime('%I--%j--%m--%p')
+print(x1)

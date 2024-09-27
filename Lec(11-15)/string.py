@@ -1,6 +1,6 @@
 name = "Harry"
 friend = "Rahul"
-myFriend= 'Lokesh'
+myFriend= '879765'
 print("Hello, "+ name + friend + myFriend)
 
 a = 'My name is "Emran"'
@@ -20,4 +20,7 @@ print(name[1])
 print("Using for loop\n")
 for character in name:
     print(character)
-
+for character in friend:
+    print(character)
+for dhon in myFriend:
+    print(dhon)

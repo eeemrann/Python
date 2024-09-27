@@ -6,7 +6,7 @@ a1=9
 print(a+a1)
 c=True
 d=None
-e=1.1
+e=1.01
 f= complex(8,2)
 print(f)
 print("The type of a is ", type(a))
