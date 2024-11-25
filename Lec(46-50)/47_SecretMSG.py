@@ -1,1 +1,8 @@
- print(4+8)
+st = "I am good"
+coding = true
+if(coding):
+    if(len(st)>=3):
+        st = st[1:]+st[0]
+        print(st)
+else:
+    pass
