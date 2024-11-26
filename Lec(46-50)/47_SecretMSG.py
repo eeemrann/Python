@@ -5,4 +5,5 @@ if(coding):
         st = st[1:]+st[0]
         print(st)
 else:
-    pass
+    pass 
+    ok
