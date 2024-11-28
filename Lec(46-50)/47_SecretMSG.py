@@ -6,4 +6,4 @@ if(coding):
         print(st)
 else:
     pass 
-    ok
+    print(ok)
