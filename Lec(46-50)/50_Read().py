@@ -26,4 +26,4 @@ if [[ $choice -eq 1 || $choice -eq 2 || $choice -eq 3 || $choice -eq 4 ]]; then
     fi
 else [[ $choice -eq 5 ]]; then
     echo "Exiting calculator."
-fi
+fijn
