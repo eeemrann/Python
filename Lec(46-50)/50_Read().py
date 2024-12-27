@@ -28,4 +28,3 @@ else [[ $choice -eq 5 ]]; then
     echo "Exiting calculator."
 fi
 
-.
