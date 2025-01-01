@@ -22,6 +22,7 @@ class Person:
 
 a = Person()
 b = Person()
+c = Person()
 a.name = "Shubham"
 b.name = "Nikita"
 a.occupation = "Accountant"
@@ -29,3 +30,4 @@ b.occupation = "HR"
 #print(a.name, a.occupation)
 a.info()  
 b.info()
+c.info()
