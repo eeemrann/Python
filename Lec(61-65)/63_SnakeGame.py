@@ -17,6 +17,7 @@ while count<=5:
           if(comp == 2 and user == 0):
              return -1
           else:
+          
              return 1
 
       user = int(input("enter between (0,1,2):"))
