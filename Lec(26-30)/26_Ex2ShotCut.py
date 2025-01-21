@@ -21,7 +21,7 @@ elif(18<int(t1)<=21):
 else:
     print("Good Night.")
     
-x=time.strftime('%a--%A--%b--%B--%c--%d')
-print(x)    
-x1=time.strftime('%I--%j--%m--%p')
-print(x1)
+#x=time.strftime('%a--%A--%b--%B--%c--%d')
+#print(x)    
+#x1=time.strftime('%I--%j--%m--%p')
+#print(x1)
