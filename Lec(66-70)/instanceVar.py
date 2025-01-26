@@ -27,3 +27,4 @@ print(f"Dog1's new age is {dog1.age}")
 Dog.species = 'Canis lupus'
 print(f"Dog1 is now a {dog1.species}")
 print(f"Dog2 is now a {dog2.species}")
+
